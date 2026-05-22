@@ -1,5 +1,1 @@
-# Hi 👋 I'm Ranu
-
-## My Programming Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphauniversecyber&layout=compact)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alphauniversecyber&theme=tokyonight)
